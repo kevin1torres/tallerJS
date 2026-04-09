@@ -1,0 +1,2 @@
+# tallerJS
+SIMULADOR DE PAGO
